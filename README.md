@@ -3,6 +3,8 @@
   <p><b>Wasm Day 2021 - Bailey Hayes & Carl Sverre</b></p>
 </div>
 
+**Attention**: The code in this repository is intended for experimental use only and is not fully tested, documented, or supported by SingleStore. Visit the [SingleStore Forums](https://www.singlestore.com/forum/) to ask questions about this repository.
+
 [View the presentation slides here.](https://docs.google.com/presentation/d/e/2PACX-1vRxCM7rnPN0ww8UkNFiyVuWmdbsECjS_vAckDZMYwVjvOgnDiqgwB8g7kbDjfssrjLhUaY5boHHU62Z/pub?start=false)
 
 ## Resources
